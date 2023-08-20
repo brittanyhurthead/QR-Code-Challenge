@@ -5,19 +5,11 @@
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
-.body-text {
-  padding: 0 25em 0 25em;
-}
 
-@media (max-width: 900px) {
-  .body-text {
-    padding: 0;
-  }
-}
 body {
   background-color: #d6e1f0;
 }
-.container {
-  background-color: white;
-  border-radius: 25px;
+
+.card {
+  margin-top: 10px;
 }
