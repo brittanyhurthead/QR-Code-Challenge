@@ -8,3 +8,9 @@
 .body-text {
   padding: 0 25em 0 25em;
 }
+
+@media (max-width: 900px) {
+  .body-text {
+    padding: 0;
+  }
+}
